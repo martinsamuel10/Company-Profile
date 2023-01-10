@@ -1,0 +1,77 @@
+.container {
+    text-align: center;
+}
+
+.product {
+    color: #fff;
+    background-color: rgb(35, 123, 255);
+}
+
+.shisha{
+    background-image: url('../img/Sisha.jpg');
+    background-size: cover;
+    height: 490px;
+}
+
+.shisha h3 {
+    position: relative;
+    top: 150px;
+    font-size: 50px;
+    position: relative;
+    color: #fff;
+}
+
+.bbq {
+    background-image: url('../img/bg.png');
+    background-size: cover;
+    height: 490px;
+}
+
+.bbq h3 {
+    position: relative;
+    top: 150px;
+    font-size: 50px;
+    position: relative;
+    color: #fff;
+}
+
+.contact {
+    height: 300px;
+    text-align: left;
+}
+
+.wabutton {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.my-float {
+    margin-top: 16px;
+}
+
+footer {
+    background-color: #FD8B06;
+    height: 100px;
+    text-align: center;
+    color: #fff;
+}
+
+footer i {
+    color: #fff;
+    width: 50px;
+    margin-top: 30px;
+}
+
+footer i:hover {
+    color: #00A3FF;
+}
